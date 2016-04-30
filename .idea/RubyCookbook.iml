@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
   <component name="ModuleRunConfigurationManager">
-    <configuration default="false" name="substituting_variables_into_strings" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="2.2_building_a_string_from_parts" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubyCookbook" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -12,11 +12,11 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/substituting_variables_into_strings.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Daniel\RubymineProjects\RubyCookbook\2.2_building_a_string_from_parts.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="building_a_string_from_parts" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="2.4_reversing_a_string_by_words_or_characters" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubyCookbook" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -27,11 +27,11 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/building_a_string_from_parts.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Daniel\RubymineProjects\RubyCookbook\2.4_reversing_a_string_by_words_or_characters.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="reversing_a_string_by_words_or_characters" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="2.5_representing_unprintable_characters" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubyCookbook" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -42,11 +42,11 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/reversing_a_string_by_words_or_characters.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Daniel\RubymineProjects\RubyCookbook\2.5_representing_unprintable_characters.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="representing_unprintable_characters" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="2.6_converting_between_characters_and_values" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="RubyCookbook" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -57,7 +57,22 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/representing_unprintable_characters.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Daniel\RubymineProjects\RubyCookbook\2.6_converting_between_characters_and_values.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="2.6_converting_between_characters_and_values (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="RubyCookbook" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/2.6_converting_between_characters_and_values.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
